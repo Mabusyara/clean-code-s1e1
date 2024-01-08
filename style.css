@@ -39,6 +39,7 @@ body {
 }
 
 .task-row-wrapper {
+  padding: 1em 0;
   display: flex;
 }
 
